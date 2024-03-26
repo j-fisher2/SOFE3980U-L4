@@ -30,3 +30,4 @@ persistence:
   size: 100Gi
 serviceAccount:
   name: cd-jenkins
+  
